@@ -1,0 +1,18 @@
+[package]
+name = "fish"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "*"
+color-thief = "0.2.2"
+dotenv = "0.15.0"
+image = "0.24.6"
+reqwest = "0.11.16"
+rgb = "0.8.36"
+rosu = "0.6.0"
+rosu-pp = "0.9.4"
+serenity = "0.11.5"
+tokio = { version = "1.27.0", features = ["full"] }
