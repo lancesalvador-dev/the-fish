@@ -5,9 +5,7 @@ My WIP Personal multi-purpose Discord bot built in Rust.
 - Ping command with time (ms) between command and bot's response
 - Performance Point calculator for osu!standard beatmap links
 ## Preview
-https://github.com/user-attachments/assets/f88d8386-eb90-40f8-acd8-47d8db3c307c
-
-https://github.com/user-attachments/assets/a32fa038-c5da-4e83-853c-8e7afda1762f
+https://github.com/user-attachments/assets/3df534a9-f3d1-4005-908c-7fddde1d0932
 ## Planned Features 
 - File ext. conversion for video files (e.g. .mkv -> mp4)
 - Voice Channel Audio Playback support
