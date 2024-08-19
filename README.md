@@ -1,7 +1,7 @@
 # the fish 🐟
 My WIP Personal multi-purpose Discord bot built in Rust.
 ## Features
-- you can say hi to the fish :)
+- You can say hi to the fish :)
 - Ping command with time (ms) between command and bot's response
 - Performance Point calculator for osu!standard beatmap links
 ## Preview
