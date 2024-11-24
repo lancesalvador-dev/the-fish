@@ -1,7 +1,7 @@
 # the fish 🐟
 My WIP Personal multi-purpose Discord bot built in Rust.
 
-Mainly for programming practice, but also to attempt to code a bunch of niche random tasks that I think could be useful to me and my friends in a discord bot.
+Mainly for programming practice, but also to attempt to code a bunch of niche random tasks that I think could be useful in a discord bot.
 ## Features
 - Ping command with time (ms) between command and bot's response
 - Performance Point calculator for osu!standard beatmap links
